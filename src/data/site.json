@@ -1,0 +1,99 @@
+{
+  "status": "demo",
+  "business": {
+    "name": "Sample Hardware & Supplies",
+    "shortName": "Sample Hardware",
+    "tagline": "Hardware, auto spares and wholesale",
+    "description": "Sample hardware shop: building materials, electrical, plumbing, tools and auto spares. Search by SKU and send a quote list on WhatsApp.",
+    "sampleNotice": "Sample business. SKUs, prices and stock are placeholders."
+  },
+  "contact": {
+    "whatsapp": "263770000000",
+    "address": "[ADDRESS], Harare",
+    "hours": "Mon to Sat, [OPEN] to [CLOSE]"
+  },
+  "brand": {
+    "accent": "#E8590C",
+    "logo": "",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+  },
+  "seo": {
+    "domain": "hardware-demo.pages.dev",
+    "ogImage": ""
+  },
+  "currency": { "symbol": "$", "priceNote": "(sample)", "fallback": "Ask for price" },
+  "nav": {
+    "links": [
+      { "label": "Products", "href": "#shop" },
+      { "label": "Delivery", "href": "#delivery" },
+      { "label": "Trade", "href": "#bulk" }
+    ],
+    "cta": "WhatsApp us",
+    "message": "Hi Sample Hardware & Supplies, I have a question."
+  },
+  "hero": {
+    "image": "",
+    "imageAlt": "",
+    "eyebrow": "Sample business",
+    "headline": "Find the part. Get the price. Collect today.",
+    "subheadline": "Building materials, electrical, plumbing, tools and auto spares. Search by SKU, build a quote list, send it on WhatsApp.",
+    "primaryCta": "Browse products",
+    "secondaryCta": "Bulk enquiry",
+    "photoHint": "Full-width shop or warehouse photo goes here"
+  },
+  "shop": {
+    "searchLabel": "Search by name, SKU or part number",
+    "searchPlaceholder": "Search name, SKU or part number",
+    "departmentsLabel": "Departments",
+    "allLabel": "All",
+    "stockNote": "Prices are samples. Stock shown as last updated by the shop.",
+    "addLabel": "Add to quote",
+    "addedLabel": "Added",
+    "emptyText": "Nothing found. Send us the part number on WhatsApp and we will check the stock.",
+    "emptyCta": "Ask about this part",
+    "emptyMessage": "Hi Sample Hardware & Supplies, do you have this part: "
+  },
+  "stock": {
+    "in": "In stock",
+    "low": "Low stock",
+    "out": "Out of stock",
+    "enq": "Ask for price"
+  },
+  "quote": {
+    "navLabel": "Quote list",
+    "barSuffix": "item(s) on your quote list",
+    "review": "Review and send",
+    "title": "Your quote list",
+    "empty": "Nothing added yet. Press \"Add to quote\" on any product.",
+    "send": "Request this quote on WhatsApp",
+    "note": "Opens WhatsApp with this list written out. The shop replies with prices and availability. Demo number only.",
+    "intro": "Hi Sample Hardware & Supplies, please quote me for:",
+    "outro": "Delivery or collection: "
+  },
+  "bulk": {
+    "title": "Buying in bulk?",
+    "text": "Contractors and resellers: add items to the quote list and ask for trade pricing.",
+    "cta": "Send a bulk enquiry",
+    "message": "Hi Sample Hardware & Supplies, I would like to enquire about bulk or trade pricing for: "
+  },
+  "delivery": {
+    "cards": [
+      {
+        "title": "Delivery and collection",
+        "text": "[DELIVERY AREAS, MINIMUM ORDER AND FEES]. Collect from [ADDRESS], Harare. Mon to Sat, [OPEN] to [CLOSE].",
+        "cta": "Ask about delivery",
+        "message": "Hi Sample Hardware & Supplies, can you deliver to: "
+      },
+      {
+        "title": "Trade accounts",
+        "text": "[ACCOUNT TERMS, FOR EXAMPLE 30 DAY ACCOUNTS FOR REGISTERED COMPANIES].",
+        "cta": "Ask about an account",
+        "message": "Hi Sample Hardware & Supplies, I would like to open a trade account."
+      }
+    ]
+  },
+  "footer": {
+    "text": "Sample Hardware. Demo layout: SKUs, prices and stock are placeholders.",
+    "credit": "Built by WeVibed"
+  }
+}
