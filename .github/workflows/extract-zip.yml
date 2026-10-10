@@ -74,4 +74,4 @@ jobs:
             git push origin HEAD:main
           else
             echo "No new files to commit."
-          
+          fi
